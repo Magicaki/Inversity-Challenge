@@ -1,2 +1,2 @@
 # Inversity-Challenge
-Open the master branch.
+Please open the master branch for my solution.
