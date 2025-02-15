@@ -5,3 +5,4 @@ It only follows the roads marked in red lines.
 It avoids the black boxes which are buildings in Liverpool.
 The black circles are the start and end points.
 The green line created is the shortest path.
+(Need to install pip, opencv, numpy, networkx and scipy)
